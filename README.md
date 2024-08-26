@@ -1,1 +1,1 @@
-# Rock-Paper-Scissor-Game
+This is a classic Rock, Paper, Scissors game where the user can play against the computer. The computer makes decisions using a random function. The game keeps track of scores, and the winner is declared when the user decides to exit the game.# Rock-Paper-Scissor-Game
